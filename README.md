@@ -39,8 +39,31 @@ Before analysis, the dataset required cleaning so that proper findings and analy
       - Medium(between 1 Million  and less than $10 Million)
       - Large(Above $10 Million)
     - Extracted the years from the Date column to include yearly calculations.
-## Key Findings 
+## Key Findings
+- A total of **$44.94 Billion** of Funding was provided to Indian Startups by investors during 2015-2021.
+- **2017** was the year with the highest total funding amount(**10.42 Billion USD**).
+- **Private Equity** was the main Investment type involved in Funding of Startup.It raised around **$28 Billion** which is **62.37%** of all fundings.
+- **E-commerce** is the top industry ($10.79 Billion), followed by Consumer Internet & Transport.
+- **Bengaluru** dominates as the startup hub with **$23.54 Billion** in funding.
+- **Menlo Park** stands out as highest earner in fundings amongst Foreign headquartered Indian Startups cities.
 
+## Tools Used
+- **Google sheets** and **Power Query**(For Data Cleaning and preparation)
+- **Power BI**(Dashboard creation)
+
+## Dashboard Snapshots
+![Overview](screenshots/Overview.png)  
+![Industry Insights](screenshots/Industry.png)  
+![Location Insights](screenshots/Location.png) 
+
+## How to Use
+1. Download the `Indian Startup Analysis.pbix` file.  
+2. Open it in **Power BI Desktop**.  
+3. Explore the dashboard with interactive filters (Industry, City, Year, Funding Type).
+
+
+
+*This project highlights India's startup funding patterns and demonstrates my skills in data cleaning, Power BI dashboarding.*
   
 
 
